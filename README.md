@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alwin Rajkumar
 - 👀 I’m interested in Java,Python,C/C++
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C++ & Assembly
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me a0rajk01@louisville.edu
 
