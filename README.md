@@ -1,4 +1,4 @@
-
+<!--
 <h1 align="center">Hello 👋 I'm [Your Name]</h1>
 
 # 💫 About Me:
@@ -39,8 +39,9 @@ I regularly share insights and tips on projects like **Space Invaders in C++**, 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+--->
 
-<!--# 👋 Hey there, I'm Alwin Rajkumar!
+# 👋 Hey there, I'm Alwin Rajkumar!
 
 Welcome to my corner of GitHub! I'm passionate about coding and continuously expanding my knowledge in the world of software development.
 
@@ -54,7 +55,7 @@ Feel free to reach out to me at:
 📧 **alwin.rajkumar@louisville.edu**
 
 Looking forward to connecting and coding with you!
---->
+
 
 <!---
 alwnraj/alwnraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
