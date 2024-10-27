@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋 I'm [Your Name]</h1>
 
 # 💫 About Me:
-I'm a **junior Computer Science & Engineering student** at the University of Louisville, driven by a passion for coding, machine learning, and data-driven solutions.
+I'm a **junior Computer Science & Engineering student** at the University of Louisville, driven by a passion for coding and machine learning.
 
 ## 🚀 What I'm Up To
 
