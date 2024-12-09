@@ -1,14 +1,6 @@
 <!--
 <h1 align="center">Hello 👋 I'm [Your Name]</h1>
 
-# 💫 About Me:
-I'm a **junior Computer Science & Engineering student** at the University of Louisville, driven by a passion for coding and machine learning.
-
-## 🚀 What I'm Up To
-
-- 🤖 Working on **Deep Learning** and experimenting with **EfficientNet** for RGB-D SLAM applications.
-- 💻 Building a **real-time chat application** and exploring **TSP algorithms** in C++.
-- 📊 Leveraging **Power BI** to analyze and visualize data in various projects.
 
 Check out my [coding portfolio!](#)
 
