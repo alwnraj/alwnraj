@@ -35,9 +35,6 @@ I regularly share insights and tips on projects like **Space Invaders in C++**, 
 
 # 👋 Hey there, I'm Alwin Rajkumar!
 
-Welcome to my corner of GitHub! I'm passionate about coding and continuously expanding my knowledge in the world of software development.
-
-
 ## 📬 Get in Touch
 Feel free to reach out to me at:  
 📧 **alwin.rajkumar@louisville.edu**
